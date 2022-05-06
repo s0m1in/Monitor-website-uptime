@@ -4,19 +4,19 @@
     "url": "https://boredom.gotdns.com",
     "icon": "https://favicons.githubusercontent.com/boredom.gotdns.com",
     "slug": "boredom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 944,
-    "timeWeek": 878,
-    "timeMonth": 858,
-    "timeYear": 771,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 772,
+    "timeDay": 945,
+    "timeWeek": 886,
+    "timeMonth": 861,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 23
     }
   }
 ]
