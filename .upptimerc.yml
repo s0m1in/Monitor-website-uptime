@@ -7,7 +7,10 @@ sites:
     url: https://boredom.gotdns.com
   - name: win
     url: https://boredom.win
-    
+  - name: compal.one
+    url: http://twoh5.compal.one
+  - name: avxiaohr.com
+    url: http://oneh5.avxiaohr.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
