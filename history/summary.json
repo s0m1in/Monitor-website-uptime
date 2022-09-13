@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/boredom.gotdns.com",
     "slug": "boredom",
     "status": "down",
-    "uptime": "90.86%",
+    "uptime": "90.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.62%",
-    "uptimeYear": "90.86%",
+    "uptimeMonth": "8.01%",
+    "uptimeYear": "90.71%",
     "time": 852,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1125,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-09-13": 160,
+      "2022-09-13": 869,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -71,9 +71,9 @@
     "url": "http://twoh5.compal.one",
     "icon": "https://favicons.githubusercontent.com/twoh5.compal.one",
     "slug": "compal-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,16 +82,18 @@
     "timeWeek": 915,
     "timeMonth": 730,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   },
   {
     "name": "avxiaohr.com",
     "url": "http://oneh5.avxiaohr.com",
     "icon": "https://favicons.githubusercontent.com/oneh5.avxiaohr.com",
     "slug": "avxiaohr-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +102,8 @@
     "timeWeek": 840,
     "timeMonth": 696,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-13": 0
+    }
   }
 ]
