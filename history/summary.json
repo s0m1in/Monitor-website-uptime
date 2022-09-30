@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-09-30": 176,
+      "2022-09-30": 204,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -88,9 +88,9 @@
     "url": "http://twoh5.compal.one",
     "icon": "https://favicons.githubusercontent.com/twoh5.compal.one",
     "slug": "compal-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.78%",
@@ -100,6 +100,7 @@
     "timeMonth": 898,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2022-09-30": 0,
       "2022-09-22": 42,
       "2022-09-13": 165
     }
@@ -109,9 +110,9 @@
     "url": "http://oneh5.avxiaohr.com",
     "icon": "https://favicons.githubusercontent.com/oneh5.avxiaohr.com",
     "slug": "avxiaohr-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.82%",
@@ -121,6 +122,7 @@
     "timeMonth": 804,
     "timeYear": 662,
     "dailyMinutesDown": {
+      "2022-09-30": 0,
       "2022-09-13": 165
     }
   }
