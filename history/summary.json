@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 0,
-    "timeWeek": 765,
-    "timeMonth": 675,
-    "timeYear": 583,
+    "time": 584,
+    "timeDay": 697,
+    "timeWeek": 792,
+    "timeMonth": 684,
+    "timeYear": 584,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 10525,
-    "timeDay": 10525,
-    "timeWeek": 10525,
-    "timeMonth": 10525,
-    "timeYear": 10525,
+    "time": 5414,
+    "timeDay": 5414,
+    "timeWeek": 5414,
+    "timeMonth": 5414,
+    "timeYear": 5414,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "85.85%",
-    "uptimeDay": "85.85%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "85.85%",
-    "uptimeYear": "85.85%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-20": 101,
+      "2023-01-19": 901
     }
   }
 ]
