@@ -22,18 +22,20 @@
     "url": "https://oneh5.xiao-xiao-sp.com",
     "icon": "https://icons.duckduckgo.com/ip3/oneh5.xiao-xiao-sp.com.ico",
     "slug": "h5",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2768,
     "timeDay": 277,
     "timeWeek": 2768,
     "timeMonth": 2768,
     "timeYear": 2768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-24": 1
+    }
   },
   {
     "name": "xiao-sp",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 101,
+      "2023-01-24": 1369,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
