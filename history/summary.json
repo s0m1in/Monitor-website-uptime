@@ -22,9 +22,9 @@
     "url": "https://oneh5.xiao-xiao-sp.com",
     "icon": "https://icons.duckduckgo.com/ip3/oneh5.xiao-xiao-sp.com.ico",
     "slug": "h5",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "91.01%",
+    "uptimeDay": "90.97%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "98.44%",
@@ -34,7 +34,7 @@
     "timeMonth": 5534,
     "timeYear": 5534,
     "dailyMinutesDown": {
-      "2023-01-25": 58,
+      "2023-01-25": 59,
       "2023-01-24": 71
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 204,
+      "2023-01-25": 218,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
