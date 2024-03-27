@@ -4,7 +4,7 @@
     "url": "https://boredom.win",
     "icon": "https://icons.duckduckgo.com/ip3/boredom.win.ico",
     "slug": "win",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 682,
     "timeMonth": 670,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "h5",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 73,
+      "2024-03-27": 1125,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -407,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "9.52%",
+    "uptime": "9.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -418,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-03-27": 73,
+      "2024-03-27": 1125,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
