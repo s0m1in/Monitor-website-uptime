@@ -4,9 +4,9 @@
     "url": "https://boredom.win",
     "icon": "https://icons.duckduckgo.com/ip3/boredom.win.ico",
     "slug": "win",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "58.78%",
+    "uptimeDay": "97.52%",
     "uptimeWeek": "90.26%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 692,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2024-03-29": 0,
       "2024-03-28": 667,
       "2024-03-27": 315
     }
@@ -26,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oneh5.xiao-xiao-sp.com.ico",
     "slug": "h5",
     "status": "down",
-    "uptime": "1.38%",
+    "uptime": "1.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-29": 74,
+      "2024-03-29": 632,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -410,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "9.48%",
+    "uptime": "9.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -421,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-03-29": 74,
+      "2024-03-29": 632,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
