@@ -6,15 +6,15 @@
     "slug": "win",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.52%",
+    "uptimeDay": "98.32%",
     "uptimeWeek": "90.02%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.81%",
     "time": 657,
-    "timeDay": 752,
-    "timeWeek": 690,
-    "timeMonth": 685,
-    "timeYear": 653,
+    "timeDay": 421,
+    "timeWeek": 663,
+    "timeMonth": 675,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2024-03-29": 24,
       "2024-03-28": 667,
@@ -30,7 +30,7 @@
     "uptime": "1.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 4999,
     "timeDay": 0,
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-29": 656,
+      "2024-03-30": 71,
+      "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -401,8 +402,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
-      "2023-04-01": 1440,
-      "2023-03-31": 1440
+      "2023-04-01": 1440
     }
   },
   {
@@ -411,10 +411,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "9.47%",
+    "uptime": "9.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "11.02%",
     "time": 229,
     "timeDay": 0,
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-03-29": 656,
+      "2024-03-30": 71,
+      "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -746,8 +747,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
-      "2023-04-01": 1440,
-      "2023-03-31": 1440
+      "2023-04-01": 1440
     }
   }
 ]
