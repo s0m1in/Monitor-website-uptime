@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/boredom.win.ico",
     "slug": "win",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.81%",
-    "time": 658,
-    "timeDay": 753,
-    "timeWeek": 801,
-    "timeMonth": 664,
+    "time": 660,
+    "timeDay": 975,
+    "timeWeek": 786,
+    "timeMonth": 674,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2024-03-29": 24,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oneh5.xiao-xiao-sp.com.ico",
     "slug": "h5",
     "status": "down",
-    "uptime": "1.32%",
+    "uptime": "1.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-17": 75,
+      "2024-04-18": 75,
+      "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -401,8 +402,7 @@
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
-      "2023-04-20": 1440,
-      "2023-04-19": 1440
+      "2023-04-20": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "9.08%",
+    "uptime": "9.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-04-17": 75,
+      "2024-04-18": 75,
+      "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -746,8 +747,7 @@
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
-      "2023-04-20": 1440,
-      "2023-04-19": 1440
+      "2023-04-20": 1440
     }
   }
 ]
