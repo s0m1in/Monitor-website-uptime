@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.80%",
-    "time": 747,
-    "timeDay": 1100,
-    "timeWeek": 1042,
-    "timeMonth": 986,
-    "timeYear": 772,
+    "time": 748,
+    "timeDay": 1177,
+    "timeWeek": 1046,
+    "timeMonth": 1017,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2025-02-04": 26,
       "2024-10-10": 27,
@@ -29,10 +29,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/oneh5.xiao-xiao-sp.com.ico",
     "slug": "h5",
     "status": "down",
-    "uptime": "0.78%",
+    "uptime": "0.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 107,
+      "2025-03-01": 113,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -403,8 +404,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/xiao-sp.com.ico",
     "slug": "xiao-sp",
     "status": "down",
-    "uptime": "5.35%",
+    "uptime": "5.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 229,
     "timeDay": 0,
@@ -424,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-28": 107,
+      "2025-03-01": 113,
+      "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -787,8 +788,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
-      "2024-03-02": 1440,
-      "2024-03-01": 1440
+      "2024-03-02": 1440
     }
   }
 ]
