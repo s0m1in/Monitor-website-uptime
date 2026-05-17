@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 687,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 836,
+    "time": 917,
+    "timeDay": 2571,
+    "timeWeek": 1063,
+    "timeMonth": 1063,
+    "timeYear": 876,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 614,
+      "2026-05-17": 150,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -397,8 +398,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   },
   {
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 614,
+      "2026-05-17": 150,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -781,8 +782,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440
+      "2025-05-18": 1440
     }
   },
   {
@@ -791,16 +791,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/a.unreliable.cc.cd.ico",
     "slug": "a",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 4503,
-    "timeDay": 7019,
-    "timeWeek": 4503,
-    "timeMonth": 4503,
-    "timeYear": 4503,
+    "uptime": "11.37%",
+    "uptimeDay": "67.77%",
+    "uptimeWeek": "11.37%",
+    "uptimeMonth": "11.37%",
+    "uptimeYear": "11.37%",
+    "time": 5373,
+    "timeDay": 11199,
+    "timeWeek": 5373,
+    "timeMonth": 5373,
+    "timeYear": 5373,
     "dailyMinutesDown": {
       "2026-05-16": 614,
       "2026-05-15": 1440,
@@ -816,16 +816,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.unreliable.cc.cd.ico",
     "slug": "b",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 4370,
-    "timeDay": 6902,
-    "timeWeek": 4370,
-    "timeMonth": 4370,
-    "timeYear": 4370,
+    "uptime": "11.37%",
+    "uptimeDay": "67.76%",
+    "uptimeWeek": "11.37%",
+    "uptimeMonth": "11.37%",
+    "uptimeYear": "11.37%",
+    "time": 5234,
+    "timeDay": 10989,
+    "timeWeek": 5234,
+    "timeMonth": 5234,
+    "timeYear": 5234,
     "dailyMinutesDown": {
       "2026-05-16": 614,
       "2026-05-15": 1440,
@@ -846,11 +846,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 372,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 308,
+    "timeDay": 190,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
